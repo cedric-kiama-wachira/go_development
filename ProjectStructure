@@ -1,0 +1,31 @@
+# Go Project Structure
+
+bin - packages
+certs - 
+cmd - 
+  api
+  drop
+  migrate
+  seed
+data -
+db
+handlers
+pkg
+types
+util
+.env
+.gitignore
+go.mod
+go.sum
+Makefile
+README.md
+
+# Link to YouTube Video by Anthony GG
+https://www.youtube.com/watch?v=dJIUxvfSg6A
+
+# Buy Content Website from different creators.
+
+# Upgrading my GoLang
+
+wget https://go.dev/dl/go1.21.3.linux-amd64.tar.gz
+rm -rf /usr/local/go && tar -C /usr/local -xzf go1.21.3.linux-amd64.tar.gz
